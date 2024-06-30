@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504165820920",
+    "project_id": "crickguru-e7fbf",
+    "storage_bucket": "crickguru-e7fbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504165820920:android:ad69956e18e59ffdc1ce0d",
+        "android_client_info": {
+          "package_name": "in.crickapp.crickguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504165820920-gfag61psn55os355vvfq0e0o9j3d7h21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEkDI-dKyJDdRwOAIsD6_BjFz6HvjHp8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504165820920-gfag61psn55os355vvfq0e0o9j3d7h21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
