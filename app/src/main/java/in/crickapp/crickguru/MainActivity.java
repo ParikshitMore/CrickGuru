@@ -62,7 +62,7 @@ import java.util.List;
 import java.util.Objects;
 
 public class MainActivity extends AppCompatActivity {
-    ImageView img1, img2, img3, img4, img5, img6, img7, img8, img9, img10;
+    ImageView img1, img2, img3, img4, img5, img6, img7, img8, img9, img10,img11;
     TextView team1, team2, team3, team4, team5, team6, team7, team8, team9, team10;
     TextView prediction1, prediction2, prediction3, prediction4, prediction5;
 
